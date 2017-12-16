@@ -80,7 +80,6 @@ public class Auto5664RedRight extends LinearOpMode
     @Override
     public void runOpMode()
     {
-
         /*
          * Initialize the drive system variables.
          * The init() method of the hardware class does all the work here
