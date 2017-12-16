@@ -70,7 +70,6 @@ import org.firstinspires.ftc.robotcontroller.external.samples.SensorMRColor;
 
 public class Auto5664RedRight extends LinearOpMode
 {
-
     /* Declare OpMode members. */
     HardwareCade robot = new HardwareCade();   // Use a Cade's hardware
     private ElapsedTime runtime = new ElapsedTime();
